@@ -1,91 +1,178 @@
 <div align="center">
-  <a href="https://github.com/D-R-N-5">
-    <img src="https://user-images.githubusercontent.com/74038190/215707769-63795874-91c6-4d1a-8c9e-5f80b9f931d8.gif" alt="Welcome to DR NITROSO's GitHub Profile" width="100%"/>
-  </a>
+  <img src="https://iili.io/FUbhsdx.jpg" alt="DR NITROSO Profile" width="200" height="200" style="border-radius: 50%; border: 5px solid #00BCD4; box-shadow: 0 0 25px rgba(0, 188, 212, 0.9); margin-bottom: 20px; object-fit: cover;"/>
+  
+  <h1 style="color:#00FF00; font-family: 'Hack', 'Fira Code', 'Consolas', monospace; letter-spacing: 3px; text-shadow: 0 0 8px #00FF00; margin-top: 0;">
+    STATUS: <span style="font-weight:bold;">• 𝑫𝑹 • 𝑵𝑰𝑻𝑹𝑶𝑺 •</span> ONLINE
+  </h1>
 </div>
 
-<h1 align="center" style="color:#00BCD4;">مرحبًا بك في ملف • 𝑫𝑹 • 𝑵𝑰𝑻𝑹𝑶𝑺 • الشخصي على GitHub! 👋</h1>
+<p align="center" style="color:#00FF00; font-family: 'Consolas', monospace; font-size: 0.9em;">
+  [SYSTEM BOOT SUCCESSFUL] Access Granted. Displaying Core Profile Data...
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=D-R-N-5&color=blueviolet&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=D-R-N-5&color=00FF00&style=for-the-badge" alt="Profile Views">
 </p>
 
 ---
 
-### 👋 عني
+<br>
 
-أهلاً وسهلاً بك في عالمي الرقمي! أنا **• 𝑫𝑹 • 𝑵𝑰𝑻𝑹𝑶𝑺 •**، مطور ومبرمج متحمس أؤمن بقوة التقنية في تشكيل المستقبل. لدي خبرة عميقة في **قواعد البيانات**، وأتقن بناء واجهات الويب الجذابة والوظيفية باستخدام **HTML و CSS و JavaScript**.
+<h2 style="color:#00BCD4; font-family: 'Consolas', monospace; margin-left: 10px;">
+  [~] // ABOUT_ME_MODULE.sh
+</h2>
 
-فيما يخص باقي اللغات، لدي معرفة جيدة ومهارات متطورة بنسبة تتراوح بين 30% إلى 35% في لغات مثل **Java و Ruby و Julia و C++ و PHP**. أستمتع بالتعلم المستمر وتوسيع قاعدة معارفي في عالم البرمجة المتغير باستمرار.
+<pre style="background-color:#1a1a1a; color:#00FF00; padding: 15px; border-radius: 8px; border: 1px solid #006400; font-family: 'Fira Code', 'Consolas', monospace; overflow-x: auto;"><code>
+  // Initializing User Profile: • 𝑫𝑹 • 𝑵𝑰𝑻𝑹𝑶𝑺 •
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LmN8STYPBGcPMBhoKl/giphy.gif" width="60" height="60" alt="Coding GIF">
-</div>
+  private String name = "DR NITROSO";
+  private String primaryRole = "Full-Stack Developer | Data Architect";
+  private String specializations = "Database Systems, Web Interfaces (HTML, CSS, JS), Cybersecurity Insights";
+  private List<String> advancedLanguages = Arrays.asList("Java", "Ruby", "Julia", "C++", "PHP"); // 30-35% proficiency
 
----
+  /**
+   * DESCRIPTION:
+   * A passionate and analytical programmer dedicated to crafting robust
+   * software solutions and optimizing data ecosystems. With a profound
+   * understanding of complex database structures and a knack for building
+   * captivating web front-ends, I bridge the gap between data logic and
+   * intuitive user experiences. My journey is one of continuous learning
+   * and exploring the depths of various programming paradigms.
+   */
 
-### 🔭 أعمل حالياً على
+  public static void main(String[] args) {
+      System.out.println("Hello, World of Code!");
+      System.out.println("Welcome to my digital domain.");
+  }
+</code></pre>
 
-* بناء حلول برمجية متكاملة تركز على **الأداء العالي لقواعد البيانات** وتجربة المستخدم السلسة.
-* تطوير تطبيقات ويب قوية باستخدام أحدث تقنيات **HTML5 و CSS3 و JavaScript**.
-* استكشاف أفضل الممارسات في تحسين أداء تطبيقات الويب وتطوير واجهات برمجة تطبيقات (APIs) فعالة.
-
----
-
-### 🌱 أتعلم حالياً
-
-* التعمق في نماذج تصميم قواعد البيانات المتقدمة وميزات JavaScript الحديثة.
-* استكشاف الأمن السيبراني لتطبيقات الويب والتعلم الآلي بلغة Python.
-* تحسين معرفتي في اللغات التي لدي فيها أساس جيد مثل **Java و Ruby و Julia و C++ و PHP** للوصول إلى مستوى احترافي أعلى.
-
----
-
-### 🤝 أبحث عن تعاون
-
-* مشاريع مفتوحة المصدر (Open Source) في مجال **قواعد البيانات وتطوير الويب الأمامي (Front-end Development)**.
-* مشاريع تتحدى قدراتي وتسمح لي بالنمو وتطبيق مهاراتي المتنوعة.
-* المساهمة في أي أفكار إبداعية يمكن أن تُحدث فرقاً في عالم التقنية.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgM1J5KqN6uTq/giphy.gif" width="60" height="60" alt="Collaboration GIF">
-</div>
+<br>
 
 ---
 
-### 🛠️ مهاراتي
+<br>
 
-هذه هي التقنيات والأدوات التي أعمل بها. الأيقونات تمثل كفاءتي في هذه المجالات:
+<h2 style="color:#00BCD4; font-family: 'Consolas', monospace; margin-left: 10px;">
+  [~] // CURRENT_PROJECTS.log
+</h2>
 
-| الفئة         | المهارات والتقنيات                                                                                                                                                                                                                                   |
-| :------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **لغات البرمجة الأساسية** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **قواعد البيانات** | ![Database](https://img.shields.io/badge/Database-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **لغات أخرى** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-953896?style=for-the-badge&logo=julia&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
-| **التحكم بالإصدار** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)                                                                                                                                                                |
-| **أخرى (أدوات)** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Web](https://img.shields.io/badge/Web_Development-323330?style=for-the-badge&logo=web&logoColor=white) |
+<ul style="background-color:#1a1a1a; color:#F0F0F0; padding: 15px; border-radius: 8px; border: 1px solid #006400; font-family: 'Consolas', monospace; list-style-type: '⚡ ';">
+  <li>Optimizing <span style="color:#00FF00;">database performance</span> for high-load applications.</li>
+  <li>Developing secure and responsive <span style="color:#00FF00;">web interfaces</span> using modern <span style="color:#00FF00;">HTML5, CSS3, & JavaScript</span>.</li>
+  <li>Exploring advanced <span style="color:#00FF00;">API design patterns</span> and <span style="color:#00FF00;">application security</span> frameworks.</li>
+</ul>
+
+<br>
 
 ---
 
-### 🌐 تواصل معي
+<br>
 
-أحب التواصل مع الزملاء والمجتمع! لا تتردد في التواصل معي عبر:
+<h2 style="color:#00BCD4; font-family: 'Consolas', monospace; margin-left: 10px;">
+  [~] // LEARNING_PATHWAYS.sys
+</h2>
 
-<p align="center">
+<ul style="background-color:#1a1a1a; color:#F0F0F0; padding: 15px; border-radius: 8px; border: 1px solid #006400; font-family: 'Consolas', monospace; list-style-type: '📚 ';">
+  <li>Deep diving into <span style="color:#00FF00;">Distributed Database Systems</span> and <span style="color:#00FF00;">Big Data Architecture</span>.</li>
+  <li><span style="color:#00FF00;">Enhancing</span> knowledge in <span style="color:#00FF00;">Cybersecurity</span> and <span style="color:#00FF00;">System Analysis</span>.</li>
+  <li>Improving proficiency in <span style="color:#00FF00;">Java, Ruby, Julia, C++, & PHP</span> for enterprise-level solutions.</li>
+</ul>
+
+<br>
+
+---
+
+<br>
+
+<h2 style="color:#00BCD4; font-family: 'Consolas', monospace; margin-left: 10px;">
+  [~] // COLLABORATION_REQUESTS.cli
+</h2>
+
+<p style="background-color:#1a1a1a; color:#F0F0F0; padding: 15px; border-radius: 8px; border: 1px solid #006400; font-family: 'Consolas', monospace;">
+  <span style="color:#00FF00;">> Looking for:</span> Open-source projects in <span style="color:#00FF00;">Cybersecurity, Data Science, or complex Front-End Development</span>.
+  <br>
+  <span style="color:#00FF00;">> Seeking:</span> Opportunities to apply <span style="color:#00FF00;">problem-solving skills</span> and contribute to impactful tech.
+  <br>
+  <span style="color:#00FF00;">> Ready to:</span> Join innovative teams to build the future of software.
+</p>
+
+<br>
+
+---
+
+<br>
+
+<h2 style="color:#00BCD4; font-family: 'Consolas', monospace; margin-left: 10px;">
+  [~] // PROGRAMMING_LANGUAGES.data
+</h2>
+
+<p style="text-align:center; background-color:#1a1a1a; padding: 15px; border-radius: 8px; border: 1px solid #006400;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,ruby,julia,cpp,php,mysql,postgresql" alt="Programming Languages Icons" style="margin-bottom: 15px;"/>
+  <br>
+  <span style="color:#00FF00; font-family: 'Consolas', monospace; font-size: 0.9em;">
+    [CORE_COMPETENCIES] // EXPERT_LEVEL
+  </span>
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Databases-Architect-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br><br>
+  <span style="color:#00FF00; font-family: 'Consolas', monospace; font-size: 0.9em;">
+    [ADDITIONAL_SKILLS] // INTERMEDIATE_LEARNER
+  </span>
+  <br>
+  <img src="https://img.shields.io/badge/Java-Proficient-red?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-Adept-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Julia-Explorer-953896?style=for-the-badge&logo=julia&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-Competent-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-Developing-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+<br>
+
+---
+
+<br>
+
+<h2 style="color:#00BCD4; font-family: 'Consolas', monospace; margin-left: 10px;">
+  [~] // PROJECT_ANALYTICS.sys
+</h2>
+<p align="center" style="background-color:#1a1a1a; padding: 15px; border-radius: 8px; border: 1px solid #006400;">
+  <img src="https://github-readme-stats.vercel.app/api?username=D-R-N-5&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-R-N-5&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-R-N-5&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="98%" style="margin-top: 10px;"/>
+</p>
+
+<br>
+
+---
+
+<br>
+
+<h2 style="color:#00BCD4; font-family: 'Consolas', monospace; margin-left: 10px;">
+  [~] // NETWORK_LOG.access
+</h2>
+
+<p align="center" style="background-color:#1a1a1a; padding: 15px; border-radius: 8px; border: 1px solid #006400;">
   <a href="https://t.me/+RrHky0Dz67w3NDU0" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://web.facebook.com/DRNitros1998/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://www.youtube.com/@Dr_Nitros" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
+<br>
+
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LNk0gqGzH09qI/giphy.gif" width="60" height="60" alt="Happy Coding">
+<p align="center" style="color:#00FF00; font-family: 'Consolas', monospace; font-size: 0.9em; text-shadow: 0 0 5px #00FF00;">
+  [SYSTEM SHUTDOWN SEQUENCE INITIATED] // THANK YOU FOR YOUR VISIT.
   <br>
-  Made with ❤️ by • 𝑫𝑹 • 𝑵𝑰𝑻𝑹𝑶𝑺 •
+  <span style="color:#F0F0F0;">Coded with precision by <span style="font-weight:bold;">• 𝑫𝑹 • 𝑵𝑰𝑻𝑹𝑶𝑺 •</span></span>
 </p>
