@@ -1,10 +1,14 @@
 <div align="center">
-  <img src="https://iili.io/FUbhsdx.jpg" alt="DR NITROSO Profile" width="200" height="200" style="border-radius: 50%; border: 5px solid #00BCD4; box-shadow: 0 0 25px rgba(0, 188, 212, 0.9); margin-bottom: 20px; object-fit: cover;"/>
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" alt="Hacker Icon" width="200" height="200" style="border-radius: 50%; border: 5px solid #00BCD4; box-shadow: 0 0 25px rgba(0, 188, 212, 0.9); margin-bottom: 20px; object-fit: cover;"/>
   
   <h1 style="color:#00FF00; font-family: 'Hack', 'Fira Code', 'Consolas', monospace; letter-spacing: 3px; text-shadow: 0 0 8px #00FF00; margin-top: 0;">
     STATUS: <span style="font-weight:bold;">• 𝑫𝑹 • 𝑵𝑰𝑻𝑹𝑶𝑺 •</span> ONLINE
   </h1>
+
+  <!-- الخط النيون أسفل الاسم -->
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" alt="Neon Line" width="250" style="margin-top: 10px; margin-bottom: 15px;"/>
 </div>
+
 
 <p align="center" style="color:#00FF00; font-family: 'Consolas', monospace; font-size: 0.9em;">
   [SYSTEM BOOT SUCCESSFUL] Access Granted. Displaying Core Profile Data...
@@ -19,7 +23,8 @@
 <br>
 
 <h2 style="color:#00BCD4; font-family: 'Consolas', monospace; margin-left: 10px;">
-  [~] // ABOUT_ME_MODULE.sh
+  <img src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50" style="vertical-align:middle; margin-right:8px;">
+  // ABOUT_ME_MODULE.sh
 </h2>
 
 <pre style="background-color:#1a1a1a; color:#00FF00; padding: 15px; border-radius: 8px; border: 1px solid #006400; font-family: 'Fira Code', 'Consolas', monospace; overflow-x: auto;"><code>
@@ -53,7 +58,8 @@
 <br>
 
 <h2 style="color:#00BCD4; font-family: 'Consolas', monospace; margin-left: 10px;">
-  [~] // CURRENT_PROJECTS.log
+  <img src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50" style="vertical-align:middle; margin-right:8px;">
+  // CURRENT_PROJECTS.log
 </h2>
 
 <ul style="background-color:#1a1a1a; color:#F0F0F0; padding: 15px; border-radius: 8px; border: 1px solid #006400; font-family: 'Consolas', monospace; list-style-type: '⚡ ';">
@@ -69,7 +75,8 @@
 <br>
 
 <h2 style="color:#00BCD4; font-family: 'Consolas', monospace; margin-left: 10px;">
-  [~] // LEARNING_PATHWAYS.sys
+  <img src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50" style="vertical-align:middle; margin-right:8px;">
+  // LEARNING_PATHWAYS.sys
 </h2>
 
 <ul style="background-color:#1a1a1a; color:#F0F0F0; padding: 15px; border-radius: 8px; border: 1px solid #006400; font-family: 'Consolas', monospace; list-style-type: '📚 ';">
@@ -85,7 +92,8 @@
 <br>
 
 <h2 style="color:#00BCD4; font-family: 'Consolas', monospace; margin-left: 10px;">
-  [~] // COLLABORATION_REQUESTS.cli
+  <img src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50" style="vertical-align:middle; margin-right:8px;">
+  // COLLABORATION_REQUESTS.cli
 </h2>
 
 <p style="background-color:#1a1a1a; color:#F0F0F0; padding: 15px; border-radius: 8px; border: 1px solid #006400; font-family: 'Consolas', monospace;">
@@ -103,7 +111,8 @@
 <br>
 
 <h2 style="color:#00BCD4; font-family: 'Consolas', monospace; margin-left: 10px;">
-  [~] // PROGRAMMING_LANGUAGES.data
+  <img src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50" style="vertical-align:middle; margin-right:8px;">
+  // PROGRAMMING_LANGUAGES.data
 </h2>
 
 <p style="text-align:center; background-color:#1a1a1a; padding: 15px; border-radius: 8px; border: 1px solid #006400;">
@@ -136,8 +145,10 @@
 <br>
 
 <h2 style="color:#00BCD4; font-family: 'Consolas', monospace; margin-left: 10px;">
-  [~] // PROJECT_ANALYTICS.sys
+  <img src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50" style="vertical-align:middle; margin-right:8px;">
+  // PROJECT_ANALYTICS.sys
 </h2>
+
 <p align="center" style="background-color:#1a1a1a; padding: 15px; border-radius: 8px; border: 1px solid #006400;">
   <img src="https://github-readme-stats.vercel.app/api?username=D-R-N-5&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-R-N-5&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
@@ -152,7 +163,8 @@
 <br>
 
 <h2 style="color:#00BCD4; font-family: 'Consolas', monospace; margin-left: 10px;">
-  [~] // NETWORK_LOG.access
+  <img src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="20" style="vertical-align:middle; margin-right:8px;">
+  // NETWORK_LOG.access
 </h2>
 
 <p align="center" style="background-color:#1a1a1a; padding: 15px; border-radius: 8px; border: 1px solid #006400;">
