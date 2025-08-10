@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" alt="Hacker Icon" width="200" height="200" style="border-radius: 50%; border: 5px solid #00BCD4; box-shadow: 0 0 25px rgba(0, 188, 212, 0.9); margin-bottom: 20px; object-fit: cover;"/>
+  <img src="doctor.mp4" alt="Hacker Icon" width="200" height="200" style="border-radius: 50%; border: 5px solid #00BCD4; box-shadow: 0 0 25px rgba(0, 188, 212, 0.9); margin-bottom: 20px; object-fit: cover;"/>
   
   <h1 style="color:#00FF00; font-family: 'Hack', 'Fira Code', 'Consolas', monospace; letter-spacing: 3px; text-shadow: 0 0 8px #00FF00; margin-top: 0;">
     STATUS: <span style="font-weight:bold;">• 𝑫𝑹 • 𝑵𝑰𝑻𝑹𝑶𝑺 •</span> ONLINE
